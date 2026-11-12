@@ -1,0 +1,12 @@
+oos
+/build/oos-linux
+/oos-linux
+oos.exe
+*.test
+/dist/
+*.db
+*.db-wal
+*.db-shm
+*.log
+.env
+.env.*
